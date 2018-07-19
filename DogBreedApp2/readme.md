@@ -1,8 +1,8 @@
 ### Dog Breed Identifier App
 
-**Description:**  Using transfer learning, this app takes the pre-trained convolutional network Xception,
+**Description:**  Using transfer learning, this app takes the pre-trained convolutional neural net Xception,
  restructures it to only predict 133 different dog breeds, 
-and trains the artificial brain on a little over 8,500 dog images. However, since the convnet is only
+and trains the neural net on a little over 8,500 dog images. However, since the neural net is only
 trained to recognize dog image features, it is automatically capable of determining 
 which dog breed a human image most closely resembles.
 
